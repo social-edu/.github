@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá! Bem vindos ao social.edu! 📚
 
+🙋‍♀️ Somos uma plataforma que vai revolucionar o terceiro setor e a educação social!
+🌈 Quer ser voluntário? Entre em contato pelo dev.laisgalvao@gmail.com
 <!--
 
 **Here are some ideas to get you started:**
